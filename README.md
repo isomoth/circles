@@ -17,4 +17,4 @@ This was just a beginner's exercise in Java. No need for pull requests at the mo
 
 ## Acknowledgment
 
-This resistor is based on the curriculum of the course "Programmering 1" by Folkuniversitetet (2021). Only used for educational purposes. 
+This program is based on the curriculum of the course "Programmering 1" by Folkuniversitetet (2021). Only used for educational purposes. 
