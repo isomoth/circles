@@ -1,4 +1,4 @@
-<p align="center">[![Circles - Simple Java program](https://i.ibb.co/JHtTjCh/Screenshot-482.png)](https://youtu.be/hPeqsDjPPlg "Circles - Simple Java program")</p>
+<p align="center"> <img width="640" height="427" src="https://i.ibb.co/JHtTjCh/Screenshot-482.png"(https://youtu.be/hPeqsDjPPlg "Circles - Simple Java program")</p>
 
 # circles
 Paint circles of random sizes and colors by pushing a button. 
